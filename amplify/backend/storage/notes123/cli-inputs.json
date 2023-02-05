@@ -1,0 +1,14 @@
+{
+  "resourceName": "notes123",
+  "policyUUID": "3bac52a4",
+  "bucketName": "notes-graphql",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
